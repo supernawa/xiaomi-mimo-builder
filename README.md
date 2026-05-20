@@ -2,6 +2,16 @@
 
 A clean, dark-themed landing page + application form for the **Xiaomi MiMo 100T Creator Incentive Program** — a limited-time event distributing 100 Trillion free tokens to AI developers and creators worldwide.
 
+🔗 **Live Demo:** https://supernawa.github.io/xiaomi-mimo-builder/
+
+## Screenshots
+
+![Hero Section](screenshots/hero.png)
+*Hero section with event details and stats*
+
+![Application Form](screenshots/form.png)
+*Application form with validation*
+
 ---
 
 ## What is this?
